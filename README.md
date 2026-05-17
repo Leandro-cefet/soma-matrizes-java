@@ -12,7 +12,7 @@ Matriz A: 1, 2, 3, 4
 Matriz B: 1, 2, 3, 4
 - Saída:
 Matriz RESULTADO: 2, 4, 6, 8
-## Tecnologias
+## Tecnologias usadas no projeto
 - Java, JDK 21
 ## Autor
 Leandro
