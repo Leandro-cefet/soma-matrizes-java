@@ -13,6 +13,6 @@ Matriz B: 1, 2, 3, 4
 - Saída:
 Matriz RESULTADO: 2, 4, 6, 8
 ## Tecnologias usadas no projeto
-- Java, JDK 21
+- Java, JDK 21, Eclipse IDE
 ## Autor
-Leandro
+Leandro, 2 período de Informática
