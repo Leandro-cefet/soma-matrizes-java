@@ -1,22 +1,18 @@
-# Matrizes
-# Vetor de Números em Java
+# Soma de Matrizes em Java
 ## Descrição
-Programa que lê 5 números inteiros e realiza operações como:
-- Maior número par
-- Menor número ímpar
-- Soma e média
+Programa que solicita do usuário o preenchimento de duas matrizes A e B, ambas com 2 linhas e 2 colunas,
+ou seja, matriz A 2x2 e matriz B 2x2. Após o preenchimento das matrizes A e B o programa faz a soma dessas matrizes
+e mostra o resultado da soma na matriz resultado.
 ## Como executar
 1. Compile o programa
-2. Execute a classe principal
+2. Execute a classe principal: ProgramaMatriz.java
 ## Exemplo de uso
-Entrada:
-5, 8, 3, 10, 7
-Saída:
-Maior par: 10
-Menor ímpar: 3
-Soma: 33
-Média: 6.6
+- Entrada:
+Matriz A: 1, 2, 3, 4
+Matriz B: 1, 2, 3, 4
+- Saída:
+Matriz RESULTADO: 2, 4, 6, 8
 ## Tecnologias
-- Java
+- Java, JDK 21
 ## Autor
-Nome do aluno
+Leandro
